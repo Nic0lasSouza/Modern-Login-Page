@@ -254,7 +254,7 @@ body{
 /* mobile */
 @media screen and (min-width:360px) and (max-width: 390px){
     .container{
-        width: 360px;
+        width: 100%;
         min-height: 370px;
         border-radius: 20px;
         position: relative;
