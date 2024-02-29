@@ -392,12 +392,12 @@ body{
         transition: 500ms linear;
     }
     input{
-        max-width: 120px;
+        max-width: 160px;
     }
     .eye-create{
         font-size: 22px;
         cursor: pointer;
-        margin-right: -80px;
+        margin-right: -140px;
         margin-top:  -33px;
         z-index: 2;
         color: rgba(255,5 ,180,1);
@@ -405,7 +405,7 @@ body{
     .eye-singin{
         font-size: 19px;
         cursor: pointer;
-        margin-right: -95px;
+        margin-right: -140px;
         margin-top:  -33px;
         z-index: 2;
         color: rgba(83,0,242,1);
